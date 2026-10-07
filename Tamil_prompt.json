@@ -1,0 +1,64 @@
+{
+"project_title": "Raja Raja Cholan vs The British Empire",
+"concept": "Alternate history epic cinematic war scene",
+"technical_specifications": {
+"aspect_ratio": "9:16",
+"orientation": "portrait",
+"resolution": "4K UHD (2160x3840)",
+"lighting": {
+"type": "natural_daylight",
+"time_of_day": "late_morning",
+"sun_position": "high_overhead_diffused",
+"atmosphere": "sharp sun rays cutting through battlefield dust and cannon smoke"
+},
+"camera": {
+"angle": "low_angle_hero_perspective",
+"shot_type": "vertical_epic_wide_shot",
+"depth_of_field": "deep_focus_with_sharp_foreground",
+"focal_length": "35mm_anamorphic"
+}
+},
+"setting": {
+"era": "late_1930s (pre-1940)",
+"location": "vast arid plains of Tamil Nadu with ancient temple ruins in the background",
+"environment": "churned red earth, dry grass, distant stone gopurams, scorched horizon"
+},
+"factions": {
+"chola_army": {
+"commander": {
+"identity": "Emperor Raja Raja Cholan I",
+"attire": {
+"armor": "ornate cast-bronze chestplate with intricate tiger motifs",
+"garments": "deep crimson silk veeshti with woven gold borders (kasavu)",
+"adornments": "royal rudraksha malas, gold shoulder-guards (tholu valai), gem-encrusted royal turban crown",
+"weapon": "forged steel Chola curved sword (vaai vaal) and circular shield embossed with the royal tiger emblem"
+},
+"pose": "standing fiercely at the center foreground, rallying the frontline troops"
+},
+"troops": {
+"uniform": "traditional Sangam/Chola era warrior garb",
+"details": "white and ochre dhotis hitched up (veera katcham), leather torso bands, bronze bangles, chest harness straps",
+"weaponry": "long spears (vel), double-edged broadswords, bows, recurve arrows, war drums (murasu)"
+}
+},
+"opposing_force": {
+"identity": "British Colonial Army",
+"troops": {
+"uniform": "1930s interwar khaki service-dress, pith helmets (foreign service helmets), leather bandoliers, puttees",
+"weaponry": "Lee-Enfield rifles with fixed bayonets, Vickers machine-gun emplacements, early field artillery"
+}
+}
+},
+"visual_composition": {
+"foreground": "Raja Raja Cholan leading the vanguard with a raised sword, foot soldiers charging forward",
+"midground": "dramatic clash of traditional bronze shields against bayonets, dust plumes, dynamic battle motion",
+"background": "ranks of khaki-clad soldiers, artillery positions, a towering Chola gopuram silhouetted against a bright tropical sky"
+},
+"color_palette": [
+"#8B0000",
+"#D4AF37",
+"#C26732",
+"#556B2F",
+"#F4F1EA"
+]
+}
